@@ -59,7 +59,7 @@ base_input.addEventListener('change',function(e) {
 
 
 about.addEventListener('click',function(e){
-   	Titanium.UI.createAlertDialog({title:'About',message:'Hello World!'}).show();     
+   	Titanium.UI.createAlertDialog({title:'About',message:'Copyright 2011 Roy <roymax@gmail.com>'}).show();     
 }); 
 
 
