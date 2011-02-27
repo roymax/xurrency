@@ -1,0 +1,4 @@
+xurrency是一个开源的实时汇率程序，基于 Titanium开发平台开发。
+基于Apache License 2 开源
+
+
